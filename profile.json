@@ -1,0 +1,16 @@
+{
+  "Craig" : {
+    "firstName" : "Craig",
+    "lastName" : "Thompson",
+    "displayHandle" : "C-Thommytheboi",
+    "age" : 26,
+    "active": true
+  },
+  "Posts" : {
+    "pOne" : "Cheeky pool sesh with the boys!",
+    "pTwo" : "Somebody stop me—it’s 8 in the morning and
+    I’ve already had 3 mimosas.",
+    "pThree" : "Sick of all these fakes on my timeline."
+  }
+
+}
