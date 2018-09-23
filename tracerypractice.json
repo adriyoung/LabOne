@@ -1,0 +1,87 @@
+{
+	"name": [
+		"Alex",
+		"Jordan",
+		"Frances",
+		"Pebbles",
+		"Parker",
+		"Vick"
+	],
+	"occupation": [
+		"professional wakeboarder",
+		"ballerina",
+		"biochemical engineer",
+		"spy",
+		"scuba diver",
+		"cardiac surgeon"
+	],
+	"origin": [
+		"#name#, a #occupation#, was #always# #expecting# this #massive# #item#. It #was# #exactly# what #he# #wanted# for the #party#."
+	],
+	"always": [
+		"constantly",
+		"never",
+		"rarely",
+		"always",
+		"often",
+		"regularly"
+	],
+	"expecting": [
+		"expecting",
+		"wanting",
+		"demanding",
+		"requiring",
+		"needing"
+	],
+	"massive": [
+		"unsatisfactory",
+		"decently sized",
+		"tiny",
+		"big ol'",
+		"massive",
+		"extravagant",
+		"ordinary"
+	],
+	"was": [
+		"was",
+		"wasn't"
+	],
+	"exactly": [
+		"exactly",
+		"precisely",
+		"literally",
+		"actually",
+		"specifically",
+		"absolutely"
+	],
+	"he": [
+		"he",
+		"she",
+		"they"
+	],
+	"wanted": [
+		"wanted",
+		"had in mind",
+		"expected",
+		"needed",
+		"demanded"
+	],
+	"party": [
+		"birthday party",
+		"funeral",
+		"meeting",
+		"baby shower",
+		"presentation"
+	],
+	"item": [
+		"promotion",
+		"puppy",
+		"century egg",
+		"caterpillar",
+		"carton of milk",
+		"mystery item",
+		"pony",
+		"necklace of bones",
+		"samurai sword"
+	]
+}
